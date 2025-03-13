@@ -44,3 +44,8 @@
 - DoB: 1999/03/06
 - Email: misaki.nakayama@g.pascalia.co.jp
 - Hobbies: Listening music 
+
+## kiattysack Sisanonh
+- Dob: 1998/10/28
+- Email: kiattyack@pascaliaasia.com
+- Hobblies: Listening to music and Drinking a Coffee
